@@ -76,19 +76,19 @@ src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEW
 
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/mohiteshh_">
 <img src="https://img.shields.io/badge/Instagram-FF5500?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mohitesh-anshu">
 <img src="https://img.shields.io/badge/LinkedIn-ff6600?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Mohitesh18">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mohiteshanshu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff3300?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -153,7 +153,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 <img
 width="100%"
-src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"
+src="https://github-profile-trophy.vercel.app/?username=Mohitesh18&theme=algolia&no-frame=true&row=1&column=7"
 />
 
 </div>
@@ -165,7 +165,7 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&the
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitesh18&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -177,7 +177,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitesh18&theme=tokyo-night&hide_border=true"
 />
 
 </div>

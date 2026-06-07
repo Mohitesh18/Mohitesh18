@@ -248,6 +248,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 </div>
 
 ---
+![GitHub GIF](githubgif.gif)
 
 <div align="center">
 

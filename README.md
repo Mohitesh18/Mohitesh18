@@ -129,7 +129,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=160&text=SYSTEM%20ON
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,java,vscode,git,github,mysql,postgres,postman,prisma,supabase" />
 
 </div>
 
